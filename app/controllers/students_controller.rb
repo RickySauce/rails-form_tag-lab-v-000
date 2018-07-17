@@ -11,7 +11,8 @@ class StudentsController < ApplicationController
   def new
   end
 
-  def create 
+  def create
+    binding.pry
   end
 
 end
